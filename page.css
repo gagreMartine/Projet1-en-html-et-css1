@@ -1,0 +1,463 @@
+body {
+    background-image: url("fem et enf.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    bottom: 20px;
+    overflow-x: hidden;
+    
+  }
+.head{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: bisque;
+  position: sticky;
+  top: 0px;
+  z-index: 60;
+  gap: 70px;
+}
+.image{
+  position: relative;
+  left: 0px;
+  width: 130px;
+
+  
+}
+.maman {
+  position:relative;
+   bottom:660px;
+   left: 800px;
+  }
+  .coeur{
+    position:relative;
+    bottom:680px;
+    left: 800px;
+  }
+  .café{
+    position:relative;
+    bottom:750px;
+    left: 800px;
+  }
+  .vocal{
+    position:relative;
+    bottom:750px;
+    left: 800px;
+  }
+  .filles{
+    position:relative;
+    bottom:750px;
+    left: 800px;
+   
+  }
+  .sticker{
+    position:relative;
+    bottom:770px;
+    left: 800px;
+   
+  }
+  .voyage{
+    position:relative;
+    bottom:770px;
+    left: 800px;
+   
+  }
+  .test{
+    position:relative;
+    bottom:1250px;
+    left: 250px;
+    color: white;
+    font-size: 30px;
+    
+   
+  }
+  .Teste3{
+    position:relative;
+    bottom:1050px;
+    left: 350px;
+    font-size: 48px;
+  }
+  .petitp{
+    position:relative;
+    bottom:1280px;
+    left: 250px;
+    color: white;
+    font-size: 15px;
+  
+    
+  }
+  .test2{
+    position:relative;
+    bottom:1050px;
+    left: 900px;
+    color: rgb(13, 13, 13);
+    font-size: 12px;
+  }
+  .dl2{
+    text-align: left ;
+       font-size: 18px;
+       color: white;
+       position:absolute;
+       z-index:2;
+       top: 680px;
+       left: 135px;
+       border-style: none;
+      }
+  .humain{
+      position:relative;
+      bottom:1050px;
+      left: 150px;
+      width: 1100px;
+      
+  }
+  .humain1{
+    position:relative;
+    bottom:1050px;
+    left: 150px;
+    width: 1100px;
+    
+}
+.body{
+  padding: 15px;
+ margin: 0px;
+  
+}
+.nav ul li{
+  padding: 25px;
+  display: inline-block;
+  
+}
+.ul li a{
+  color:black;
+  text-decoration: none;
+  font-weight: bolder;
+  bottom: 90px;
+  letter-spacing: 1rem;
+  
+}
+.btn{
+  background-color: green;
+  padding: 15px;
+  border-radius: 20px;
+
+}
+.whatsapp{
+  width: 120px;
+
+}
+.btn1{
+  background-color: green;
+  padding: 15px;
+  border-radius: 20px;
+  bottom: 100px;
+
+}
+.item{
+text-decoration: none;
+color: black;
+}
+.ul{
+ float: right;
+ position: relative;
+ bottom: 40px;
+ left: 50px;
+}
+.bouton{
+  background-color: #25d366;
+  color: #1c1e21;
+  border-radius: 50px;
+  padding-right: 28px;
+  padding-left: 28px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  border-width: 1px;
+  border-style: solid;
+  }
+  .pp1{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width: 100%;
+    padding-top: 88px;
+    
+    }
+    
+    .manquez{
+    position: relative;
+     font-size: 60px;
+     bottom: 1095px;
+     left: 100px;
+     right: 180px;
+    }
+    
+    .camarade{
+      position: relative;
+      bottom: 1095px;
+      left: 100px;
+      font-size: 18px;
+      padding-top: 18px;
+    }
+  .imagevideo{
+    position: relative;
+    bottom: 1070px;
+    left: 40px;
+  }
+    
+.bloque{
+  padding-top: 160px;
+   padding-left: 0px;
+   flex-direction: row;
+   display: flex;
+    }
+.groue{
+   position: relative;
+   font-size: 18px;
+   padding-top: 40px;
+      }
+/* .liensavoplus0{ 
+  position: relative;
+  padding-top: 61px;
+  bottom: 1099px;*/
+
+.ecran{
+  position: relative;
+  margin-right: 70px;
+  height: 600px;
+  width: 600px;
+  left: 280px;
+  bottom: 100px;
+}
+.bloc1{
+  width: 100%;
+  height: 500px;
+  background-color: black;
+  position: relative;
+  padding-top: 150px;
+  padding-left: 10px;
+  bottom: 1000px;
+  }
+  
+  .imgvc{
+    position: relative;
+  margin-right: 95px;
+  }
+  .mank{
+    position: relative;
+    bottom: 590px;
+    left: 890px;
+    color: white;
+    font-size: 40px;
+  }
+  .verte{
+    position: relative;
+    bottom: 590px;
+    left: 890px;
+    color:green;
+    font-size: 40px;
+  }
+  .callin{
+    position: relative;
+    bottom: 1400px;
+    left: 900px;
+    color: white;
+  }
+  .liensavoplus0{
+    position: relative;
+    padding-top: 61px;
+    bottom: 600px;
+    left: 900px;
+    color: white;
+  }
+  .liensavoplus1{
+    position: relative;
+    padding-top: 61px;
+    bottom: 660px;
+    left: 900px;
+   color: white; 
+  }
+   /* .liensavoplus1{ 
+    position: relative;
+    padding-top: 61px;
+    bottom: 1099px;
+  } */
+  
+  .pp1{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    padding-top: 88px;
+    
+    }
+    
+    .manquez1{
+      position: relative;
+      bottom: 1100px;
+      left: 75px;
+      font-size: 60px;
+    }
+    
+    .organise{
+      position: relative;
+      bottom: 1100px;
+      left: 75px;
+     font-size: 18px;
+     padding-top: 18px;
+    }
+    
+    .bloque1{
+    padding-top: 150px;
+    padding-left: 0px;
+    }
+    .chapeau{
+      position: relative;
+      bottom: 1500px;
+      left: 700px;
+      margin-right: 95px;
+
+    }
+    .rire{
+      margin-right: 95px;
+    }
+    .penser{
+      font-size: 60px;
+      }
+      
+      .exprimer{
+      font-size: 18px;
+      padding-top: 18px;
+      }
+      
+      .bloque2{
+        position: relative;
+      padding-top: 150px;
+      padding-left: 0px;
+      left: 400px;
+      }
+      .fleur1{
+        position: relative;
+        margin-right: 95px;
+        left: 700px;
+        bottom: 500px;
+      }
+      .transforme{
+        position: relative;
+        left: 100px;
+        font-size: 60px;
+        }
+        
+        .business{
+          position: relative;
+          font-size: 18px;
+          left: 100px;
+          padding-top: 18px;
+        }
+        .liensavoplus{
+          position: relative;
+          left: 100px;
+        }
+        
+      .bloque3{
+        padding-top: 150px;
+        padding-left: 0px;
+      }
+      .afoot{
+        width: 1349px;
+        height: 500px;
+        background-color: #e6ffda;
+        border-bottom-left-radius: 45px;
+        border-bottom-right-radius: 45px;
+      }
+      .carouss{
+        width: 504px;
+        height: 399px;
+        background-color: white;
+        border-radius: 25px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+      .carrou{ 
+        padding-left: 56px;
+     } 
+      
+      .carrou1{
+        font-size: 32px;
+        margin-bottom: 16px;
+        }
+        
+      .carrou2{
+        font-size: 16px;
+        
+      }
+      .logowa{
+        width: 23px;
+        height: 23px;
+      }
+      .caroulink{
+        margin-top: 52px;
+    }
+    /* .caroulink a{ 
+      text-decoration: none;
+      color: #1c1e21;
+      font-size: 16px;
+      border: 1px solid #1c1e21;
+      border-radius: 50px;
+      padding-top: 16px;
+      padding-bottom: 16px;
+      padding-left: 28px;
+      padding-right: 28px;
+      
+    } */
+    .footer{
+      flex-shrink: 0;
+      border-top: 1px dashed #000;
+      width: 100%;
+      background-color:black;
+      color: black;
+  }
+  .img-footer{
+    width: 90px;
+}
+.contenu-footer{
+    position: relative;
+    width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    font-size: 20px;
+    padding: 50px 0 100px;
+}
+.footer-whatsapp{
+  position: relative;
+  gap: 10px;
+  padding: 10px;
+  margin: 25px;
+}
+.footer2{
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  margin: 25px;
+
+}
+.img-footer{
+  position: relative;
+  gap: 10px;
+  padding: 10px;
+  margin: 25px;
+  
+  
+}      
+
+
+    
+      
+
+  
+
+  
+  
+  
+  
